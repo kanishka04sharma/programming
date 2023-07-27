@@ -1,0 +1,48 @@
+control statements
+decision makeing statement
+loops 
+jumping statements
+----------------------------
+decision makeing 
+1. if 
+       simple if
+	if else
+	if else if else
+	natested
+-------------------------------
+if keyword:reversed word , fixed word
+------------------------------------------
+1. number swap:
+	a=20
+	b=10
+--------------
+a=10
+b=20
+===========================================================
+simple if
+	condition making
+syntex
+	if(condition)
+	{
+	statement
+	}
+=================================================================
+what is c
+feature
+data type
+variable
+operator
+control statement
+dicisionn making statement
+
+
+==========================================================
+1.odd even
+2.number swap
+3.all question
+========================================================
+1. vowel and constalt
+2.lear year
+3.5 sub >40 ===  avg calcualte  then =40 pass otherwise fail
+4.a,f,g,h yes otherrwise no
+5.character--- user f=female=otherwise==male
