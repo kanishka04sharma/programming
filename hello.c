@@ -1,5 +1,8 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
 int main(){
-	printf("hello world");
+	int num;
+	printf("enter the numebrr");
+	scanf("%d",&num);
+	printf("%d",num);
 	return 0;
-}
+}1
